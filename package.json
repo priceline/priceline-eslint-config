@@ -1,0 +1,20 @@
+{
+  "name": "priceline-eslint-config",
+  "version": "1.0.0",
+  "description": "Priceline's eslint file",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pricelinelabs/priceline-eslint-config"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "eslint",
+    "priceline"
+  ],
+  "license": "MIT"
+}
