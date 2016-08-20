@@ -257,6 +257,7 @@ module.exports = {
     "space-infix-ops": [2, {"int32Hint": false}],
     "no-debugger": 2,
     "no-console": 2,
-    "no-undef": 1
+    "no-undef": 1,
+    "space-before-function-paren": [2, 'never']
   }
 };

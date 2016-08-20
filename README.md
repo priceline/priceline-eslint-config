@@ -1,0 +1,1 @@
+This is an eslint config file for Priceline's style guide
