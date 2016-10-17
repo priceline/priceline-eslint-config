@@ -176,9 +176,9 @@ module.exports = {
     // enforce spacing before and after comma
     "comma-spacing": [2, {"before": false, "after": true}],
     // enforce one true comma style
-    "comma-style": [2, "last"],
+    "comma-style": [2, "first"],
     // enforce use of trailing commas in object and array literals
-    "comma-dangle": [1, "always-multiline"],
+    "comma-dangle": [1, "never"],
     // require or disallow padding inside computed properties
     "computed-property-spacing": 0,
     // enforces consistent naming when capturing the current execution context
