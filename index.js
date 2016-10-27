@@ -31,6 +31,9 @@ module.exports = {
     "templateStrings": true,
     "jsx": true
   },
+  "parserOptions": {
+    "sourceType": "module"
+  },
   "rules": {
     // require parens in arrow function arguments
     "arrow-parens": 2,
