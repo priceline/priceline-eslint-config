@@ -175,7 +175,7 @@ module.exports = {
     // enforce one true comma style
     "comma-style": [2, "last"],
     // enforce use of trailing commas in object and array literals
-    "comma-dangle": [1, "always-multiline"],
+    "comma-dangle": [2, "only-multiline"],
     // require or disallow padding inside computed properties
     "computed-property-spacing": 0,
     // enforces consistent naming when capturing the current execution context
